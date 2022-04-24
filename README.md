@@ -5,8 +5,8 @@ SC1015 Project
 This is the repo for the SC1015 mini-project. The aim of the this project is to predict the presence of heart disease/cardiovascular disease with the dataset from [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/Heart+Disease "UCI ML")
 
 ## Contribution
-@ - Neoh Kai Xiang
-@wph12 - Weng Pei He
+@ - Neoh Kai Xiang<br/>
+@wph12 - Weng Pei He <br/>
 @fortuneblycat - Tan Ding Jiang
 
 ## Models Used
