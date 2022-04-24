@@ -18,7 +18,7 @@ Neoh Kai Xiang: Data Extraction, Exploratory Data Analysis <br/>
 2. Random Forest
 3. Logistic Regression
 
-## Conclusion
+## Conclusions
 1. Heart Disease can be predicted with a reasonable degree of accuracy using the ML models
 2. Random Forest gives the best performance with our current dataset
 3. Asymptomatic chest pain is important in predicting heart disease: This could be attributed to the presence of silent myocardial infarctions, where patients might show atypical symptoms like indigestion, flu or a strained chest muscle, rather than the normal symptoms of heart attack.
