@@ -9,9 +9,9 @@ How can we accurately predict the presence of heart disease (defined as narrowin
 
 
 ## Contribution
-@ - Neoh Kai Xiang <br/>
-@wph12 - Weng Pei He <br/>
-@fortuneblycat - Tan Ding Jiang
+Neoh Kai Xiang: Data Extraction, Exploratory Data Analysis <br/>
+@wph12 - Weng Pei He: Data Cleaning and Imputation, Machine Learning<br/>
+@fortuneblycat - Tan Ding Jiang: Exploratory Data Analysis, Presentation  
 
 ## Models Used
 1. Decision Tree
