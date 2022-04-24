@@ -53,4 +53,4 @@ Readings
 * https://datahacker.rs/005-pytorch-logistic-regression-in-pytorch/
 * https://quantifyinghealth.com/standardized-vs-unstandardized-regression-coefficients/
 * https://datahacker.rs/005-pytorch-logistic-regression-in-pytorch/
-
+* https://www.healthhub.sg/a-z/health-statistics/4/principal-causes-of-death
