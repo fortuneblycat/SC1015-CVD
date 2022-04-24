@@ -1,12 +1,13 @@
-# SC1015-CVD
+# SC1015-Heart Disease
 SC1015 Project
 
 ## About
-This is the repo for the SC1015 mini-project. The aim of the this project is to predict the presence of coronary heart disease with the dataset from [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/Heart+Disease "UCI ML")
+This is the repo for the SC1015 mini-project. The aim of the this project is to predict the presence of heart disease/cardiovascular disease with the dataset from [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/Heart+Disease "UCI ML")
 
 ## Contribution
-@
-@fortuneblycat 
+@ - Neoh Kai Xiang
+@wph12 - Weng Pei He
+@fortuneblycat - Tan Ding Jiang
 
 ## Models Used
 1. Decision Tree
@@ -14,10 +15,18 @@ This is the repo for the SC1015 mini-project. The aim of the this project is to 
 3. Logistic Regression
 
 ## Conclusion
+1. Heart Disease can be predicted with a reasonable degree of accuracy using the ML models
+2. 
 
 ## Lessons Learnt
-* Idea of over/undersampling
+* Trade-offs when encountering missing values: deletion vs imputation
+* Concept of imputation and the methods to carry it out
+* Concept of over/undersampling
 * Refactoring imbalanced categorical data 
 * RandomForest Classifier
+* Hyperparameter tuning with gridsearchCV
 * Logistic Regression
-* GitHub
+* Google Colaboratory (which is not very great, will stick to Git in the future)
+
+## References
+
