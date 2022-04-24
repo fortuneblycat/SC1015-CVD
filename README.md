@@ -5,7 +5,7 @@ SC1015 Project
 This is the repo for the SC1015 mini-project. The aim of the this project is to predict the presence of heart disease/cardiovascular disease with the dataset from [UCI Machine Learning Repository.](https://archive.ics.uci.edu/ml/datasets/Heart+Disease "UCI ML")
 
 ## Contribution
-@ - Neoh Kai Xiang<br/>
+@ - Neoh Kai Xiang <br/>
 @wph12 - Weng Pei He <br/>
 @fortuneblycat - Tan Ding Jiang
 
@@ -16,20 +16,19 @@ This is the repo for the SC1015 mini-project. The aim of the this project is to 
 
 ## Conclusion
 1. Heart Disease can be predicted with a reasonable degree of accuracy using the ML models
-2. Random Forest gives the best performance with the dataset
-3. Other important variables to consider are exercise-related: presence of exercise-induced angina, exercise-induced ST depression and ST Slope during peak exercise. As such, exercise tests can be very useful in detection of heart disease in patients.
-4. Men are more prone to heart disease than Women
-5. Asymptomatic chest pain in predicting heart disease: This could be attributed to the presence of silent myocardial infarctions, where patients might show atypical symptoms like indigestion, flu or a strained chest muscle, rather than the normal symptoms of heart attack, which usually involve sharp anginal pain. However, having these silent heart attacks are no less deadly, and still involve blockage of blood flow to the heart and possible damage to the heart muscles.
+2. Random Forest gives the best performance with our current dataset
+3. Asymptomatic chest pain is important in predicting heart disease: This could be attributed to the presence of silent myocardial infarctions, where patients might show atypical symptoms like indigestion, flu or a strained chest muscle, rather than the normal symptoms of heart attack.
+4. Other important variables to consider are exercise-related: presence of exercise-induced angina, exercise-induced ST depression and ST Slope during peak exercise. As such, exercise tests can be very useful in detection of heart disease in patients.
+5. Men are more prone to heart disease than Women
+
 
 ## Lessons Learnt
 * Trade-offs when encountering missing values: deletion vs imputation
 * Concept of imputation and the methods to carry it out
-* Concept of over/undersampling
-* Refactoring imbalanced categorical data 
 * RandomForest Classifier
 * Hyperparameter tuning with gridsearchCV
 * Logistic Regression
-* Google Colaboratory (which is not very great, will stick to Git in the future)
+* Google Colaboratory
 
 ## References
 Images
