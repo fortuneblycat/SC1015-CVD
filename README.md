@@ -19,11 +19,11 @@ Neoh Kai Xiang: Data Extraction, Exploratory Data Analysis <br/>
 3. Logistic Regression
 
 ## Conclusions
-1. Heart Disease can be predicted with a reasonable degree of accuracy using the ML models
+1. Heart Disease can be predicted with a reasonable degree of accuracy using the ML models.
 2. Random Forest gives the best performance with our current dataset
 3. Asymptomatic chest pain is important in predicting heart disease: This could be attributed to the presence of silent myocardial infarctions, where patients might show atypical symptoms like indigestion, flu or a strained chest muscle, rather than the normal symptoms of heart attack.
 4. Other important variables to consider are exercise-related: presence of exercise-induced angina, exercise-induced ST depression and ST Slope during peak exercise. As such, exercise tests can be very useful in detection of heart disease in patients.
-5. Men are more prone to heart disease than Women
+5. Men are more prone to heart disease than Women.
 
 
 ## Lessons Learnt
